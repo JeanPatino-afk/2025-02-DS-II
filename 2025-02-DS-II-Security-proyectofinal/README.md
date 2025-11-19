@@ -79,14 +79,8 @@ La aplicación utiliza el puerto **9000**, por lo que todas las URLs comienzan c
   - `Authorization: Bearer <tu_token_jwt>`
 
 
-
-### Autores:
-**Antonio Luis De Oro Vergara**,
-
-**Yojhan José Vides Ortiz**,
-
-**Giovanny Daniel Gonzales Racero**,
-
-**José Luis Garay De La Vega**,
-
-**Javier Eduardo Cerpa Guerrero**.
+//integrantes
+Jean Patiño
+Jesus Noriega
+Samir Polo
+Orlando Beltran
